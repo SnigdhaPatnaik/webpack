@@ -22,5 +22,6 @@ npm run dev
 
 **Webpack bundles all files, Babel converts modern JS + JSX into browser-friendly code, and HtmlWebpackPlugin injects the final bundle into HTML.**
 
+<img width="2496" height="1708" alt="image" src="https://github.com/user-attachments/assets/29993c0d-113b-446c-8d57-675b663f5e9a" />
 
 

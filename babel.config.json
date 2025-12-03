@@ -1,0 +1,12 @@
+{
+    "presets": ["@babel/preset-env","@babel/preset-react"]
+}
+// "presets" - are ready-made rules that tell Babel how to convert your code.
+
+// 1️⃣ "@babel/preset-env"
+
+// ✔ Converts modern JavaScript (ES6, ES7…) into older JS that all browsers understand.
+
+// 2️⃣ "@babel/preset-react"
+
+// ✔ Converts JSX (<h1>Hello</h1>) into normal JavaScript functions.

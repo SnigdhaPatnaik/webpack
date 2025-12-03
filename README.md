@@ -359,5 +359,6 @@ pipeline {
 # ✅ **What happens when you run `npm run build`?**
 
 **“Webpack creates a final production build — it bundles your React files, removes unused code, minifies everything, and puts the optimized output inside the `dist` folder for deployment.”**
+<img width="864" height="758" alt="image" src="https://github.com/user-attachments/assets/ec7fcfb8-2eb4-45f5-a092-e6f9d973f519" />
 
 

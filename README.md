@@ -353,3 +353,11 @@ pipeline {
 # 🧠 **Summary (1 line)**
 
 **Webpack builds the React app — Jenkins automates running Webpack and deploying the final build.**
+
+---------------------------------------------------------------------------------------
+
+# ✅ **What happens when you run `npm run build`?**
+
+**“Webpack creates a final production build — it bundles your React files, removes unused code, minifies everything, and puts the optimized output inside the `dist` folder for deployment.”**
+
+
